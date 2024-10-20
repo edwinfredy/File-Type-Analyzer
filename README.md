@@ -1,5 +1,5 @@
 # File Type Analyzer
-This project can analyze files and predict their filetypes, even in the absense of magic numbers. \
+This project uses a Machine Learning Model (Gradient Boost Machine) to analyze files and predict their filetypes, even in the absence of magic numbers. \
 Install dependencies with
 ```
 pip install Flask lightgbm numpy
