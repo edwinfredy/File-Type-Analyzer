@@ -1,14 +1,14 @@
 # File Type Analyzer
-A Machine Learning Model (Gradient Boost Machine) to analyze files and predict their filetypes, even in the absence of magic numbers. \
+A Machine Learning Model (Gradient Boost Machine) to analyze files and predict their filetypes, even in the absence of magic numbers.
 
 # Demo
 
-
+![Demo GIF](https://github.com/edwinfredy/File-Type-Analyzer/blob/main/Media/demo.gif)
 
 # Usage
 
 1. Clone the repo: `git clone https://github.com/edwinfredy/File-Type-Analyzer.git`.
 2. Install dependencies: `pip install  -r requirements.txt`.
-3. Run the app: `streamlit run main.py` \
+3. Run the app: `streamlit run main.py`.
 
-At present, the model can identify .pdf, .exe, .jpg, .mp3 and .mp4 files.
+At present, the model can identify **.pdf**, **.exe**, **.jpg**, **.mp3** and **.mp4** files.
